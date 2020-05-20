@@ -1,0 +1,28 @@
+body 
+{
+background: gray;
+color: #DED25E 
+}
+
+
+
+.naglowek
+{
+    margin-top: 50px;
+	font-size: 80px;
+	text-decoration:none;
+	margin:auto; 0 auto;
+	text-align: center;	
+}
+.styl
+{
+margin:auto; 0 auto;	
+text-align: center;		
+	
+}
+.styl2
+{
+margin:auto; 0 auto;	
+text-align: center;		
+font-size: 50px;	
+}
